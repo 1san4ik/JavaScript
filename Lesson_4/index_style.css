@@ -1,0 +1,16 @@
+.button {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px 1px;
+    border-radius: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    box-shadow: 0 18px 18px 0 rgba(0, 40, 120, .35);
+    transition: .3s;
+}
+
+.button:hover {
+    box-shadow: 0 0 0 0 rgba(0, 40, 120, 0);
+}
